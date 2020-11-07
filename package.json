@@ -9,7 +9,8 @@
   "author": "Chengyu Sun",
   "license": "ISC",
   "dependencies": {
-    "bcryptjs": "*"
+    "bcryptjs": "*",
+    "express": "*"
   },
   "devDependencies": {
     "nodemon": "*"
